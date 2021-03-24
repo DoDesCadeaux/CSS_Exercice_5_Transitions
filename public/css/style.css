@@ -63,13 +63,14 @@ input:focus {
 
 .transition_05 {
     background-color: gray;
-    width: 50px;
+    width: 150px;
     height: 150px;
     transition: 2s;
 }
 
 .transition_05:hover {
     border-radius: 50%;
+    background-color: purple;
 }
 
 /* fin exo 05 les transitions */
